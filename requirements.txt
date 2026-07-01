@@ -1,6 +1,6 @@
 # MetriCore
 
-Herramienta de gestion metrologica desarrollada con Streamlit y SQLite.
+#Herramienta de gestion metrologica desarrollada con Streamlit y SQLite.
 
 ## Versiones preparadas
 
